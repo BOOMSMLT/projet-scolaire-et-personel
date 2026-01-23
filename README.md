@@ -1,5 +1,5 @@
 
-Je suis étudiant en 3ᵉ année de licence en informatique.
+Je suis étudiant en informatique.
 Je m’intéresse particulièrement à :
 - la cybersécurité (pentest, Metasploit, OWASP)
 - les systèmes Linux
